@@ -1,6 +1,6 @@
   
 import java.util.*;
-     class switchcondition11
+     class switchcondition1
      {
 	         public static void main(String[] args) {
 	          Scanner sc=new Scanner(System.in);
